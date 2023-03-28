@@ -1,6 +1,5 @@
 import passport from "passport";
 
-// import { myApp } from "../server";
 import { myApp } from "../server";
 
 import { Strategy as LocalStrategy } from "passport-local";
